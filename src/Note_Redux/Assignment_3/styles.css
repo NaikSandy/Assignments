@@ -1,0 +1,27 @@
+.input{
+    width:700px;
+    height:30px;
+    border:none;
+    Outline:none;
+    border-bottom:solid 1px black;
+}
+
+.data-div{
+
+    width:300px;
+    height:200px;
+    border:solid 1px black;
+    padding:10px;
+}
+.flex-div{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    width:100%;
+    heigth:100%;
+    gap:10px;
+
+}
+.data-div ul li{
+    list-style-type: none;
+}

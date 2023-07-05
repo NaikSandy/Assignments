@@ -1,0 +1,60 @@
+{
+  "students": [
+    {
+      "name": "dfgh",
+      "dateofbirth": "2023-05-30",
+      "gender": "Female",
+      "address": "gh",
+      "MobileNumber": "uhyy",
+      "id": 7
+    },
+    {
+      "name": "34",
+      "dateofbirth": "2023-05-29",
+      "gender": "Female",
+      "address": "34",
+      "MobileNumber": "34",
+      "id": 8
+    },
+    {
+      "name": "gh",
+      "dateofbirth": "2023-05-30",
+      "gender": "Female",
+      "address": "gb",
+      "MobileNumber": "gfh",
+      "id": 9
+    },
+    {
+      "name": "fg",
+      "dateofbirth": "2023-07-20",
+      "gender": "Female",
+      "address": "qqqqqw",
+      "MobileNumber": "wee",
+      "id": 10
+    },
+    {
+      "name": "Indhu",
+      "dateofbirth": "2023-07-12",
+      "gender": "Female",
+      "address": "paithamparai",
+      "MobileNumber": "9677648907",
+      "id": 11
+    },
+    {
+      "name": "Indhu",
+      "dateofbirth": "2023-07-06",
+      "gender": "Female",
+      "address": "qwe",
+      "MobileNumber": "123",
+      "id": 13
+    },
+    {
+      "name": "Indhu",
+      "dob": "2023-07-26",
+      "gender": "Male",
+      "address": "qwe",
+      "mobileNumber": "56786",
+      "id": 14
+    }
+  ]
+}

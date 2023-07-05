@@ -1,0 +1,54 @@
+{
+    "student": [
+      {
+        "id": 1,
+        "title": "Gray_Man",
+        "posterPath": "../images/Image1.jpg",
+        "favourite": false
+      },
+      {
+        "id": 2,
+        "title": "KGF-2",
+        "posterPath": "../images/Image2.jpeg",
+        "favourite": true
+      },
+      {
+        "id": 3,
+        "title": "Vikram",
+        "posterPath": "../images/Image3.jpeg",
+        "favourite": true
+      },
+      {
+        "id": 4,
+        "title": "VIP-2",
+        "posterPath": "../images/Image4.jpeg",
+        "favourite": true
+      }
+    ],
+    "favourites": [
+      {
+        "id": 1,
+        "title": "Gray_Man",
+        "posterPath": "../images/Image1.jpg",
+        "favourite": false
+      },
+      {
+        "id": 2,
+        "title": "KGF-2",
+        "posterPath": "../images/Image2.jpeg",
+        "favourite": true
+      },
+      {
+        "id": 3,
+        "title": "Vikram",
+        "posterPath": "../images/Image3.jpeg",
+        "favourite": false
+      },
+      {
+        "id": 3,
+        "title": "VIP-2",
+        "posterPath": "../images/Image4.jpeg",
+        "favourite": true
+      }
+    ]
+  }
