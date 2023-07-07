@@ -1,0 +1,28 @@
+{
+  "friends": [
+    {
+      "name": "indhu",
+      "dateofbirth": "2023-07-12",
+      "gender": "Male",
+      "address": "ww",
+      "MobileNumber": "234",
+      "id": 2
+    },
+    {
+      "name": "abi",
+      "dateofbirth": "2023-07-07",
+      "gender": "Female",
+      "address": "ertr6t",
+      "MobileNumber": "w245",
+      "id": 3
+    },
+    {
+      "name": "abi",
+      "dateofbirth": "2023-07-07",
+      "gender": "Female",
+      "address": "ertr6t",
+      "MobileNumber": "w245",
+      "id": 4
+    }
+  ]
+}
